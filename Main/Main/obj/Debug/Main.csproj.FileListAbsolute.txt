@@ -1,0 +1,48 @@
+F:\Практика\Main\Main\bin\Debug\Main.exe.config
+F:\Практика\Main\Main\bin\Debug\Main.exe
+F:\Практика\Main\Main\bin\Debug\Main.pdb
+F:\Практика\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+F:\Практика\Main\Main\obj\Debug\Main.csproj.SuggestedBindingRedirects.cache
+F:\Практика\Main\Main\obj\Debug\Main.Form1.resources
+F:\Практика\Main\Main\obj\Debug\Main.Properties.Resources.resources
+F:\Практика\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+F:\Практика\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\Практика\Main\Main\obj\Debug\Main.exe
+F:\Практика\Main\Main\obj\Debug\Main.pdb
+F:\Практика\Main\Main\obj\Debug\Main.Newwrite.resources
+F:\Заготовка\Main\Main\bin\Debug\Main.exe.config
+F:\Заготовка\Main\Main\bin\Debug\Main.exe
+F:\Заготовка\Main\Main\bin\Debug\Main.pdb
+F:\Заготовка\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+F:\Заготовка\Main\Main\obj\Debug\Main.csproj.SuggestedBindingRedirects.cache
+F:\Заготовка\Main\Main\obj\Debug\Main.Form1.resources
+F:\Заготовка\Main\Main\obj\Debug\Main.Newwrite.resources
+F:\Заготовка\Main\Main\obj\Debug\Main.Properties.Resources.resources
+F:\Заготовка\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+F:\Заготовка\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+F:\Заготовка\Main\Main\obj\Debug\Main.exe
+F:\Заготовка\Main\Main\obj\Debug\Main.pdb
+E:\College\3 курс\Заготовка\Main\Main\bin\Debug\Main.exe.config
+E:\College\3 курс\Заготовка\Main\Main\bin\Debug\Main.exe
+E:\College\3 курс\Заготовка\Main\Main\bin\Debug\Main.pdb
+E:\College\3 курс\Заготовка\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+E:\College\3 курс\Заготовка\Main\Main\obj\Debug\Main.Form1.resources
+E:\College\3 курс\Заготовка\Main\Main\obj\Debug\Main.Newwrite.resources
+E:\College\3 курс\Заготовка\Main\Main\obj\Debug\Main.Properties.Resources.resources
+E:\College\3 курс\Заготовка\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+E:\College\3 курс\Заготовка\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+E:\College\3 курс\Заготовка\Main\Main\obj\Debug\Main.exe
+E:\College\3 курс\Заготовка\Main\Main\obj\Debug\Main.pdb
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\bin\Debug\Main.exe.config
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\bin\Debug\Main.exe
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\bin\Debug\Main.pdb
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\obj\Debug\Main.Form1.resources
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\obj\Debug\Main.Newwrite.resources
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\obj\Debug\Main.exe
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\obj\Debug\Main.pdb
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\obj\Debug\Main.log.resources
+C:\Users\Edisu\Downloads\practic\lab_5\Main\Main\obj\Debug\Main.Historyactivity.resources
